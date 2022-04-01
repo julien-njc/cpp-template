@@ -1,0 +1,34 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "cmocka_dependency.h": "c",
+        "__locale": "c",
+        "locale": "c",
+        "__hash_table": "c",
+        "__split_buffer": "c",
+        "__tree": "c",
+        "array": "c",
+        "bitset": "c",
+        "deque": "c",
+        "initializer_list": "c",
+        "list": "c",
+        "map": "c",
+        "random": "c",
+        "regex": "c",
+        "set": "c",
+        "stack": "c",
+        "string": "c",
+        "string_view": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "iterator": "c",
+        "utility": "c",
+        "ratio": "c",
+        "limits": "cpp"
+    },
+    "cmake.buildBeforeRun": true,
+    "cmake.debugConfig": {
+        "miDebuggerPath": "",
+        "MIMode": "lldb"
+    }
+}
