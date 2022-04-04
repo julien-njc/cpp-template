@@ -6,8 +6,8 @@ set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake ${CMAKE_MODULE_PATH})
 set(MY_PROJECT c-template)
 set(MY_PROJECT_VERSION 0.1)
 set(MY_PROJECT_DESCRIPTION "Starter template to work with a full C environment")
-set(MY_PROJECT_LIB ctemplate)
-set(MY_PROJECT_APP ctemplate_app)
+set(MY_PROJECT_LIB cpptemplate)
+set(MY_PROJECT_APP cpptemplate_app)
 
 project(${MY_PROJECT}
     VERSION ${MY_PROJECT_VERSION}

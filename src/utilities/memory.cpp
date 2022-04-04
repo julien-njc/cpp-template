@@ -1,7 +1,7 @@
-#include "utilities/memory.h"
-#include "error.h"
+#include "utilities/memory.hpp"
+#include "error.hpp"
 
-#include <stdlib.h>
+#include <cstddef>
 
 void* safe_malloc(size_t size)
 {

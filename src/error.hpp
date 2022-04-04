@@ -1,5 +1,5 @@
-#include <assert.h>
-#include <stdio.h>
+#include <cassert>
+#include <string>
 
 #define build_error_message(message, format, function, ...)                                                            \
 	static_assert(sizeof(message) == 128, "message has to be a 128 characters buffer");                                \
