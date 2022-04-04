@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.19)
 set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake ${CMAKE_MODULE_PATH})
 
 # TODO: Set your projects specifics
-set(MY_PROJECT c-template)
+set(MY_PROJECT cpp-template)
 set(MY_PROJECT_VERSION 0.1)
 set(MY_PROJECT_DESCRIPTION "Starter template to work with a full C environment")
 set(MY_PROJECT_LIB cpptemplate)
